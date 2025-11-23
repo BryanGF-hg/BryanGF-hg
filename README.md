@@ -11,5 +11,5 @@ Repos:
 Proyectos:
 <ul>https://github.com/BryanGF-hg/AutoCYP</ul>
 <ul></ul>
-Presentación:
+About me:
 <ul>https://bryangf-hg.github.io/web/</ul>
