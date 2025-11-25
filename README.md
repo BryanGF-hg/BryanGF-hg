@@ -12,7 +12,7 @@ Repos:
 Proyectos:
 [Auto-CYP](https://github.com/BryanGF-hg/AutoCYP)
 
-About me: [👻✨](https://bryangf-hg.github.io/web/)
+About me: [👻✨👧](https://bryangf-hg.github.io/web/)
 
 Contacto:  
 [Correo](bryanglot@gmail.com)
