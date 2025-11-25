@@ -4,9 +4,10 @@
 
 
 Repos:
-<ul>https://github.com/BryanGF-hg/Programacion2526-1DAM</ul> 
-<ul>https://github.com/BryanGF-hg/Bases-de-Datos-1DAM</ul> 
-<ul>https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM</ul>
+<ul>[Programacion 1DAM](https://github.com/BryanGF-hg/Programacion2526-1DAM</ul> 
+<ul>[Bases de Datos 1DAM]https://github.com/BryanGF-hg/Bases-de-Datos-1DAM</ul> 
+<ul>[Proyecto Intermodular 1DAM]https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM</ul>
+<ul>[Lenguajes de Marcas]https://github.com/BryanGF-hg/ampliacion-web</ul>
 
 Proyectos:
 <ul>https://github.com/BryanGF-hg/AutoCYP</ul>
