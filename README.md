@@ -4,15 +4,14 @@
 
 
 Repos:
-<ul>[Programacion 1DAM](https://github.com/BryanGF-hg/Programacion2526-1DAM</ul> 
-<ul>[Bases de Datos 1DAM]https://github.com/BryanGF-hg/Bases-de-Datos-1DAM</ul> 
-<ul>[Proyecto Intermodular 1DAM]https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM</ul>
-<ul>[Lenguajes de Marcas]https://github.com/BryanGF-hg/ampliacion-web</ul>
+[Programacion 1DAM](https://github.com/BryanGF-hg/Programacion2526-1DAM) 
+[Bases de Datos 1DAM](https://github.com/BryanGF-hg/Bases-de-Datos-1DAM)
+[Proyecto Intermodular 1DAM](https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM)
+[Lenguajes de Marcas](https://github.com/BryanGF-hg/ampliacion-web)
 
 Proyectos:
-<ul>https://github.com/BryanGF-hg/AutoCYP</ul>
-About me:
-<ul>https://bryangf-hg.github.io/web/</ul>
+[Auto-CYP] https://github.com/BryanGF-hg/AutoCYP
+About me: [👻✨](https://bryangf-hg.github.io/web/)
 
 Contacto:  
 [Correo](bryanglot@gmail.com)
