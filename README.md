@@ -10,6 +10,10 @@ Repos:
 
 Proyectos:
 <ul>https://github.com/BryanGF-hg/AutoCYP</ul>
-<ul></ul>
 About me:
 <ul>https://bryangf-hg.github.io/web/</ul>
+
+Contacto:  
+[Correo](bryanglot@gmail.com)
+[Correo Administrativo](bryan.alexander.glot.fong@alu.ceacfp.es)
+[Linkeldn](https://es.linkedin.com/in/bryan-glot-fong)
