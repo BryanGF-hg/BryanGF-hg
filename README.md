@@ -7,10 +7,12 @@ Repos:
 [Programacion 1DAM](https://github.com/BryanGF-hg/Programacion2526-1DAM) |
 [Bases de Datos 1DAM](https://github.com/BryanGF-hg/Bases-de-Datos-1DAM) |
 [Proyecto Intermodular 1DAM](https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM) |
-[Lenguajes de Marcas](https://github.com/BryanGF-hg/ampliacion-web)
+[Lenguajes de Marcas](https://github.com/BryanGF-hg/Lenguajes-de-Marcas-1DAM)
 
 Proyectos:
 [Auto-CYP](https://github.com/BryanGF-hg/AutoCYP)
+Miscelaneo:
+[Imagenes Grem](https://github.com/BryanGF-hg/Imagenes-Grem)
 
 About me: [👻✨👧](https://bryangf-hg.github.io/web/)
 
