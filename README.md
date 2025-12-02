@@ -16,6 +16,8 @@ Miscelaneo:
 
 About me: [👻✨👧](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf-hg.github.io/curriculum/) [Portafolio](https://bryangf-hg.github.io/portafolio)
 
+---
+
 Contacto:  
 [Correo](bryanglot@gmail.com)
 [Correo Administrativo](bryan.alexander.glot.fong@alu.ceacfp.es)
