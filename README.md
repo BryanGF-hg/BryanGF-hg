@@ -14,7 +14,7 @@ Proyectos:
 Miscelaneo:
 [Imagenes Grem](https://github.com/BryanGF-hg/Imagenes-Grem)
 
-About me: [👻✨👧](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf-hg.github.io/curriculum/) [Portafolio]([https://github.com/BryanGF-hg](https://bryangf-hg.github.io/portafolio)
+About me: [👻✨👧](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf-hg.github.io/curriculum/) [Portafolio](https://bryangf-hg.github.io/portafolio)
 
 Contacto:  
 [Correo](bryanglot@gmail.com)
