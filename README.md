@@ -3,7 +3,7 @@
 ---
 
 
-Repos:
+Repos Activos:
 [Programacion 1DAM](https://github.com/BryanGF-hg/Programacion2526-1DAM) |
 [Bases de Datos 1DAM](https://github.com/BryanGF-hg/Bases-de-Datos-1DAM) |
 [Proyecto Intermodular 1DAM](https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM) |
