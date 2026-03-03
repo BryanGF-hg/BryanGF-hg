@@ -10,11 +10,13 @@ Repos Activos:
 [Lenguajes de Marcas](https://github.com/BryanGF-hg/Lenguajes-de-Marcas-1DAM)
 
 Proyectos:
-[Auto-CYP](https://github.com/BryanGF-hg/AutoCYP)
+[Auto-CYP](https://github.com/BryanGF-hg/AutoCYP) |
+[WePlan](https://github.com/BryanGF-hg/weplan/) |
+[FloMViDex](https://github.com/BryanGF-hg/Proyecto-FloMViDex/)
 Miscelaneo:
 [Imagenes Grem](https://github.com/BryanGF-hg/Imagenes-Grem)
 
-About me: [👻✨👧](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf-hg.github.io/curriculum/) [Portafolio](https://bryangf-hg.github.io/portafolio)
+About me: [Web! 👻✨👧](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf-hg.github.io/curriculum/) [Portafolio](https://bryangf-hg.github.io/portafolio)
 
 ---
 
