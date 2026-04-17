@@ -21,7 +21,7 @@ About me: [Web! 👻✨👧](https://bryangf-hg.github.io/web/) [Curriculum](htt
 
 ---
 
-Contacto:  
+Contacto:
 [Correo](bryanglot@gmail.com)
 [Correo Administrativo](bryan.alexander.glot.fong@alu.ceacfp.es)
 [Linkeldn](https://www.linkedin.com/in/bryan-glot-fong-04082a39a/)
