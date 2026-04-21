@@ -14,6 +14,10 @@ Proyectos:
 [WePlan](https://github.com/BryanGF-hg/weplan/) |
 [FloMViDex](https://github.com/BryanGF-hg/Proyecto-FloMViDex/)
 
+Proyectos hecho en Prácticas:
+[Comanya](https://github.com/BryanGF-hg/comanya) |
+[WAT](https://github.com/samonzfu/Transcriptor-Audios-WhatsApp) |
+
 Miscelaneo:
 [Imagenes Grem](https://github.com/BryanGF-hg/Imagenes-Grem)
 
