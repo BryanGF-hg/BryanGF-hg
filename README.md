@@ -12,7 +12,8 @@ Repos Activos:
 Proyectos:
 [Auto-CYP](https://github.com/BryanGF-hg/AutoCYP) |
 [WePlan](https://github.com/BryanGF-hg/weplan/) |
-[FloMViDex](https://github.com/BryanGF-hg/Proyecto-FloMViDex/)
+[FloMViDex](https://github.com/BryanGF-hg/Proyecto-FloMViDex/) |
+[Proyectos con IA] (https://github.com/BryanGF-hg/ProyectosIA/)
 
 Proyectos hecho en Prácticas:
 [Comanya](https://github.com/BryanGF-hg/comanya) |
