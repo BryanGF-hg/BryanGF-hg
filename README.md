@@ -22,7 +22,7 @@ Proyectos hecho en Prácticas:
 Miscelaneo:
 [Imagenes Grem](https://github.com/BryanGF-hg/Imagenes-Grem)
 
-About me: [Web! 👻✨👧](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf-hg.github.io/curriculum/) [Portafolio](https://bryangf-hg.github.io/portafolio)
+About me: [Web!](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf-hg.github.io/curriculum/) [Portafolio](https://bryangf-hg.github.io/portafolio)
 
 ---
 
