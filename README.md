@@ -4,8 +4,8 @@
 
 
 Repos Activos:
-[Acceso a Datos 2DAM]([https://github.com/BryanGF-hg/Programacion2526-1DAM](https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM)) |
-[DAMII]([https://github.com/BryanGF-hg/Bases-de-Datos-1DAM](https://github.com/BryanGF-hg/DAM-II)) |
+[Acceso a Datos 2DAM](https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM) |
+[DAMII]([https://github.com/BryanGF-hg/DAM-II) |
 
 
 Proyectos:
