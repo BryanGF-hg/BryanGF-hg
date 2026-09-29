@@ -5,7 +5,7 @@
 
 Repos Activos:
 [Acceso a Datos 2DAM](https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM) |
-[DAMII]([https://github.com/BryanGF-hg/DAM-II) |
+[DAMII](https://github.com/BryanGF-hg/DAM-II) |
 
 
 Proyectos:
