@@ -4,10 +4,9 @@
 
 
 Repos Activos:
-[Programacion 1DAM](https://github.com/BryanGF-hg/Programacion2526-1DAM) |
-[Bases de Datos 1DAM](https://github.com/BryanGF-hg/Bases-de-Datos-1DAM) |
-[Proyecto Intermodular 1DAM](https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM) |
-[Lenguajes de Marcas](https://github.com/BryanGF-hg/Lenguajes-de-Marcas-1DAM)
+[Acceso a Datos 2DAM]([https://github.com/BryanGF-hg/Programacion2526-1DAM](https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM)) |
+[DAMII]([https://github.com/BryanGF-hg/Bases-de-Datos-1DAM](https://github.com/BryanGF-hg/DAM-II)) |
+
 
 Proyectos:
 [Auto-CYP](https://github.com/BryanGF-hg/AutoCYP) |
