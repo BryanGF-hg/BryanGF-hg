@@ -1,12 +1,6 @@
 # house ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
 
 ---
-<p align="center">
-  <a href="https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM" alt="Acceso a datos 2DAM"></a>
-  <a href="https://github.com/BryanGF-hg/DAM-II" alt="DAM2"></a>
-</p>
-
-
 
 Repos Activos:
 [Acceso a Datos 2DAM](https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM) |
