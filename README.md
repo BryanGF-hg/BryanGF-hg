@@ -24,6 +24,13 @@ Miscelaneo:
 
 About me: [Web!](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf-hg.github.io/curriculum/) [Portafolio](https://bryangf-hg.github.io/portafolio)
 
+**Tecnologias**
+--- 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,flask,php,laravel,js,ts,react,html,css,tailwind,mysql,supabase,git,github,vscode&theme=dark&perline=8" alt="Python, Flask, PHP, Laravel, JavaScript, TypeScript, React, HTML, CSS, Tailwind, MySQL, Supabase, Git, GitHub, VS Code" />
+</p>
+
 ---
 
 Contacto:
