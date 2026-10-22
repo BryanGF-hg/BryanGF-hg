@@ -25,11 +25,6 @@ About me: [Web!](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf
 
 **Tecnologias**
 --- 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,php,laravel,js,ts,react,html,css,tailwind,mysql,supabase,git,github,vscode&theme=dark&perline=8" alt="Python, Flask, PHP, Laravel, JavaScript, TypeScript, React, HTML, CSS, Tailwind, MySQL, Supabase, Git, GitHub, VS Code" />
-</p>
-
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6" alt="Python" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6" alt="PHP" style="max-width: 100%;"></a>
@@ -42,8 +37,35 @@ About me: [Web!](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/SQLite-AEEAD6?style=flat&logo=sqlite&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/SQLite-AEEAD6?style=flat&logo=sqlite&logoColor=000000&labelColor=AEEAD6" alt="SQLite" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Git-AEEAD6?style=flat&logo=git&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Git-AEEAD6?style=flat&logo=git&logoColor=000000&labelColor=AEEAD6" alt="Git" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Linux-AEEAD6?style=flat&logo=linux&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Linux-AEEAD6?style=flat&logo=linux&logoColor=000000&labelColor=AEEAD6" alt="Linux" style="max-width: 100%;"></a>
-</p>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="[https://img.shields.io/badge/https://img.shields.io/badge/Deepseek-4D6BFF?style=flat&logo=deepseek&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Deepseek-4D6BFF?style=flat&logo=deepseek&logoColor=000000&labelColor=AEEAD6" alt="Deepseek" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=fff&labelColor=AEEAD6"><img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=fff&labelColor=AEEAD6" alt="ChatGPT" style="max-width: 100%;"></a>
 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Ollama-fff?style=flat&logo=ollama&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Ollama-fff?style=flat&logo=ollama&logoColor=000000&labelColor=AEEAD6" alt="Ollama" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white&labelColor=AEEAD6" alt="Vercel" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white&labelColor=AEEAD6"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white&labelColor=AEEAD6" alt="VS Code" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white&labelColor=AEEAD6"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white&labelColor=AEEAD6" alt="MongoDB" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=AEEAD6"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=AEEAD6" alt="MySQL" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white&labelColor=AEEAD6"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white&labelColor=AEEAD6" alt="SQLite" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Notion-000?style=flat&logo=notion&logoColor=fff&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Notion-000?style=flat&logo=notion&logoColor=fff&labelColor=AEEAD6" alt="Notion" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white&labelColor=AEEAD6" alt="Angular" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/FastAPI-009485.svg?style=flat&logo=fastapi&logoColor=white&labelColor=AEEAD6"><img src="https://img.shields.io/badge/FastAPI-009485.svg?style=flat&logo=fastapi&logoColor=white&labelColor=AEEAD6" alt="FastAPI" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white&labelColor=AEEAD6" alt="Node.js" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=black&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=black&labelColor=AEEAD6" alt="Linux Mint" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white&labelColor=AEEAD6"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white&labelColor=AEEAD6" alt="C++" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white&labelColor=AEEAD6" alt="Markdown" style="max-width: 100%;"></a>
+</p>
 ---
 
 Contacto:
