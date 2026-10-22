@@ -51,6 +51,7 @@ About me: [Web!](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/C++-AEEAD6?style=flat&logo=cplusplus&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/C++-AEEAD6?style=flat&logo=cplusplus&logoColor=000000&labelColor=AEEAD6" alt="C++" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6" alt="Markdown" style="max-width: 100%;"></a>
 </p>
+
 ---
 
 Contacto:
