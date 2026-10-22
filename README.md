@@ -30,6 +30,20 @@ About me: [Web!](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf
   <img src="https://skillicons.dev/icons?i=py,flask,php,laravel,js,ts,react,html,css,tailwind,mysql,supabase,git,github,vscode&theme=dark&perline=8" alt="Python, Flask, PHP, Laravel, JavaScript, TypeScript, React, HTML, CSS, Tailwind, MySQL, Supabase, Git, GitHub, VS Code" />
 </p>
 
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6" alt="Python" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6" alt="PHP" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&logo=javascript&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&logo=javascript&logoColor=000000&labelColor=AEEAD6" alt="JavaScript" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/TypeScript-AEEAD6?style=flat&logo=typescript&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/TypeScript-AEEAD6?style=flat&logo=typescript&logoColor=000000&labelColor=AEEAD6" alt="TypeScript" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/HTML5-AEEAD6?style=flat&logo=html5&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/HTML5-AEEAD6?style=flat&logo=html5&logoColor=000000&labelColor=AEEAD6" alt="HTML" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/CSS3-AEEAD6?style=flat&logo=css3&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/CSS3-AEEAD6?style=flat&logo=css3&logoColor=000000&labelColor=AEEAD6" alt="CSS" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/React-AEEAD6?style=flat&logo=react&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/React-AEEAD6?style=flat&logo=react&logoColor=000000&labelColor=AEEAD6" alt="React" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MySQL-AEEAD6?style=flat&logo=mysql&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/MySQL-AEEAD6?style=flat&logo=mysql&logoColor=000000&labelColor=AEEAD6" alt="MySQL" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/SQLite-AEEAD6?style=flat&logo=sqlite&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/SQLite-AEEAD6?style=flat&logo=sqlite&logoColor=000000&labelColor=AEEAD6" alt="SQLite" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Git-AEEAD6?style=flat&logo=git&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Git-AEEAD6?style=flat&logo=git&logoColor=000000&labelColor=AEEAD6" alt="Git" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Linux-AEEAD6?style=flat&logo=linux&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Linux-AEEAD6?style=flat&logo=linux&logoColor=000000&labelColor=AEEAD6" alt="Linux" style="max-width: 100%;"></a>
+</p>
+
 ---
 
 Contacto:
