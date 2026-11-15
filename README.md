@@ -9,7 +9,7 @@
 
 <br>
 
-### $ whoami
+###  $ whoami
 
 Estudiante de 2º de **Desarrollo de Aplicaciones Multiplataforma** (DAM) en CEAC FP, Valencia.  
 Me enfoco en el backend, la automatización y el desarrollo de herramientas que resuelvan problemas concretos.
@@ -49,10 +49,7 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 </p>
 <p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&amp;theme=github_dark&amp;bg_color=171C19&amp;title_color=8ACDB5&amp;text_color=F0F0E9&amp;hide_title=true&amp;border_radius=4" width="450px" alt="Lenguajes más usados"></p>
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/BryanGF-hg/BryanGF-hg?label=Último%20commit&amp;style=flat&amp;color=3E7C6B&amp;display_timestamp=committer&amp;cacheSeconds=300" height="28" alt="Última actividad de contribución">
-</p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BryanGF-hg&amp;left_text=VISITAS&amp;left_color=2A2E2B&amp;right_color=00FF37" height="28" alt="Contador de visitas">
+  <img src="https://img.shields.io/github/last-commit/BryanGF-hg/BryanGF-hg?label=Último%20commit&amp;style=flat&amp;color=3E7C6B&amp;display_timestamp=committer" height="28" alt="Última actividad de contribución">
 </p>
 </td>
 <td width="50%" valign="top">
@@ -62,9 +59,7 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 <summary><b>AutoCYP📋️</b></summary>
 <br>
 <p align="left">Herramienta en Python para generar estructuras de documentos.<br>
-<img src="https://img.shields.io/badge/Python-AEEAD6?style=flat&amp;logo=python&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="Python">
-<img src="https://img.shields.io/badge/CLI-AEEAD6?style=flat" height="20" alt="CLI">
-<img src="https://img.shields.io/badge/JSON-AEEAD6?style=flat" height="20" alt="JSON">
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/AutoCYP?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
 <a href="https://github.com/BryanGF-hg/AutoCYP"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
 </p>
 </details>
@@ -72,9 +67,7 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 <summary><b>WePlan</b></summary>
 <br>
 <p align="left">Conexión social y planificación para grupos locales.<br>
-<img src="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-AEEAD6?style=flat&amp;logo=react&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="React">
-<img src="https://img.shields.io/badge/Node.js-AEEAD6?style=flat&amp;logo=nodedotjs&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="Node.js">
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/WePlan?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
 <a href="https://github.com/BryanGF-hg/WePlan"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
 </p>
 </details>
@@ -82,9 +75,7 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 <summary><b>FloMViDex🎵️</b></summary>
 <br>
 <p align="left">Reproductor musical web (Maidcore).<br>
-<img src="https://img.shields.io/badge/HTML5-AEEAD6?style=flat&amp;logo=html5&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-AEEAD6?style=flat&amp;logo=css3&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="JavaScript">
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/Proyecto-FloMViDex?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
 <a href="https://github.com/BryanGF-hg/Proyecto-FloMViDex"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
 </p>
 </details>
@@ -92,9 +83,7 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 <summary><b>Comanya🧭️</b></summary>
 <br>
 <p align="left">CRM para análisis de competidores.<br>
-<img src="https://img.shields.io/badge/PHP-AEEAD6?style=flat&amp;logo=php&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="PHP">
-<img src="https://img.shields.io/badge/MySQL-AEEAD6?style=flat&amp;logo=mysql&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="MySQL">
-<img src="https://img.shields.io/badge/Chart.js-AEEAD6?style=flat" height="20" alt="Chart.js">
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/comanya?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
 <a href="https://github.com/BryanGF-hg/comanya"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
 </p>
 </details>
@@ -102,9 +91,7 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 <summary><b>Phosfytte➡️</b></summary>
 <br>
 <p align="left">Transcriptor de YouTube con resumen automático (IA).<br>
-<img src="https://img.shields.io/badge/Python-AEEAD6?style=flat&amp;logo=python&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="Python">
-<img src="https://img.shields.io/badge/DeepSeek-AEEAD6?style=flat&amp;logo=deepseek&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="DeepSeek">
-<img src="https://img.shields.io/badge/YouTube%20API-AEEAD6?style=flat" height="20" alt="YouTube API">
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/phosfytte-copilot?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
 <a href="https://github.com/BryanGF-hg/phosfytte-copilot"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
 </p>
 </details>
@@ -112,9 +99,7 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 <summary><b>WAT🔈️</b></summary>
 <br>
 <p align="left">Transcriptor de audios de WhatsApp.<br>
-<img src="https://img.shields.io/badge/Python-AEEAD6?style=flat&amp;logo=python&amp;logoColor=000000&amp;labelColor=AEEAD6" height="20" alt="Python">
-<img src="https://img.shields.io/badge/Whisper-AEEAD6?style=flat" height="20" alt="Whisper">
-<img src="https://img.shields.io/badge/FFmpeg-AEEAD6?style=flat" height="20" alt="FFmpeg">
+<img src="https://img.shields.io/github/languages/top/samonzfu/Transcriptor-Audios-WhatsApp?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
 <a href="https://github.com/samonzfu/Transcriptor-Audios-WhatsApp"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
 </p>
 </details>
@@ -133,4 +118,4 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 </tr>
 </table>
 
-<br>****
+<br>
