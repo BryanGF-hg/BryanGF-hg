@@ -39,11 +39,11 @@
 <tr>
 
 <!-- ---------- 左栏 ---------- -->
-<td width="%" align="left" valign="top">
+<td width="50%" align="left" valign="top">
 
   <p align="left"><code><b>$ cat stack.txt</b></code></p>
   <hr>
-  <p align="left" style="width:50%;">
+  <p align="left">
     <img src="https://img.shields.io/badge/Python-AEEAD6?style=flat&amp;logo=python&amp;logoColor=000000&amp;labelColor=AEEAD6" height="24" alt="Python">
     <img src="https://img.shields.io/badge/PHP-AEEAD6?style=flat&amp;logo=php&amp;logoColor=000000&amp;labelColor=AEEAD6" height="24" alt="PHP">
     <img src="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=AEEAD6" height="24" alt="JavaScript">
@@ -71,7 +71,7 @@
   </p>
 
   <p align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&amp;theme=github_dark&amp;bg_color=171C19&amp;title_color=8ACDB5&amp;text_color=F0F0E9&amp;hide_title=true&amp;border_radius=4" width="50%" alt="Lenguajes más usados">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&amp;theme=github_dark&amp;bg_color=171C19&amp;title_color=8ACDB5&amp;text_color=F0F0E9&amp;hide_title=true&amp;border_radius=4" width="100%" alt="Lenguajes más usados">
   </p>
 
 </td>
