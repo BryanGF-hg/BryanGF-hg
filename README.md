@@ -48,40 +48,75 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 <img src="https://img.shields.io/badge/C++-AEEAD6?style=flat&amp;logo=cplusplus&amp;logoColor=000000&amp;labelColor=AEEAD6" height="24" alt="C++">
 <img src="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&amp;logo=markdown&amp;logoColor=000000&amp;labelColor=AEEAD6" height="24" alt="Markdown">
 </p>
-<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&amp;theme=github_dark&amp;bg_color=171C19&amp;title_color=8ACDB5&amp;text_color=F0F0E9&amp;hide_title=true&amp;border_radius=4" width="100%" alt="Lenguajes más usados"></p>
+<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&amp;theme=github_dark&amp;bg_color=171C19&amp;title_color=8ACDB5&amp;text_color=F0F0E9&amp;hide_title=true&amp;border_radius=4" width="450px" alt="Lenguajes más usados"></p>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/BryanGF-hg/BryanGF-hg?label=Último%20commit&amp;style=flat&amp;color=3E7C6B&amp;display_timestamp=committer" height="28" alt="Última actividad de contribución">
+</p>
 </td>
 <td width="50%" valign="top">
 <p align="left"><code><b>$ ls projects/</b></code></p>
 <hr>
-<p align="left">
-<a href="https://github.com/BryanGF-hg/AutoCYP" title="Herramienta en Python para generar estructuras de documentos."><b>AutoCYP📋️</b></a>
-&nbsp;·&nbsp;
-<a href="https://github.com/BryanGF-hg/WePlan" title="Conexión social y planificación para grupos locales."><b>WePlan</b></a>
-&nbsp;·&nbsp;
-<a href="https://github.com/BryanGF-hg/Proyecto-FloMViDex" title="Reproductor musical web (Maidcore)."><b>FloMViDex🎵️</b></a>
+<details>
+<summary><b>AutoCYP📋️</b></summary>
 <br>
-<a href="https://github.com/BryanGF-hg/comanya" title="CRM para análisis de competidores."><b>Comanya🧭️</b></a>
-&nbsp;·&nbsp;
-<a href="https://github.com/BryanGF-hg/phosfytte-copilot" title="Transcriptor de YouTube con resumen automático (IA)."><b>Phosfytte➡️</b></a>
-&nbsp;·&nbsp;
-<a href="https://github.com/samonzfu/Transcriptor-Audios-WhatsApp" title="Transcriptor de audios de WhatsApp."><b>WAT🔈️</b></a>
+<p align="left">Herramienta en Python para generar estructuras de documentos.<br>
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/AutoCYP?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
+<a href="https://github.com/BryanGF-hg/AutoCYP"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
 </p>
-<p align="left"><code><b>$ ls repos/</b></code></p>
+</details>
+<details>
+<summary><b>WePlan</b></summary>
+<br>
+<p align="left">Conexión social y planificación para grupos locales.<br>
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/WePlan?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
+<a href="https://github.com/BryanGF-hg/WePlan"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
+</p>
+</details>
+<details>
+<summary><b>FloMViDex🎵️</b></summary>
+<br>
+<p align="left">Reproductor musical web (Maidcore).<br>
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/Proyecto-FloMViDex?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
+<a href="https://github.com/BryanGF-hg/Proyecto-FloMViDex"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
+</p>
+</details>
+<details>
+<summary><b>Comanya🧭️</b></summary>
+<br>
+<p align="left">CRM para análisis de competidores.<br>
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/comanya?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
+<a href="https://github.com/BryanGF-hg/comanya"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
+</p>
+</details>
+<details>
+<summary><b>Phosfytte➡️</b></summary>
+<br>
+<p align="left">Transcriptor de YouTube con resumen automático (IA).<br>
+<img src="https://img.shields.io/github/languages/top/BryanGF-hg/phosfytte-copilot?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
+<a href="https://github.com/BryanGF-hg/phosfytte-copilot"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
+</p>
+</details>
+<details>
+<summary><b>WAT🔈️</b></summary>
+<br>
+<p align="left">Transcriptor de audios de WhatsApp.<br>
+<img src="https://img.shields.io/github/languages/top/samonzfu/Transcriptor-Audios-WhatsApp?style=flat&amp;color=3E7C6B" height="20" alt="Lenguaje principal">
+<a href="https://github.com/samonzfu/Transcriptor-Audios-WhatsApp"><img src="https://img.shields.io/badge/C%C3%B3digo-2A2E2B?style=flat" height="20" alt="Código"></a>
+</p>
+</details>
 <hr>
 <details>
 <summary><b>DAM 2</b></summary>
 <br>
-<ul>
-<li><a href="https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM">Acceso a Datos</a> · <a href="https://github.com/BryanGF-hg/DAM-II">DAM II</a></li>
-</ul>
+<p align="left"><a href="https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM">Acceso a Datos</a> · <a href="https://github.com/BryanGF-hg/DAM-II">DAM II</a></p>
 </details>
 <details>
 <summary><b>DAM 1</b></summary>
 <br>
-<ul>
-<li><a href="https://github.com/BryanGF-hg/Programacion2526-1DAM">Programación</a> · <a href="https://github.com/BryanGF-hg/Bases-de-Datos2526-1DAM">Bases de Datos</a> · <a href="https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM">Proyecto Intermodular</a></li>
-</ul>
+<p align="left"><a href="https://github.com/BryanGF-hg/Programacion2526-1DAM">Programación</a> · <a href="https://github.com/BryanGF-hg/Bases-de-Datos2526-1DAM">Bases de Datos</a> · <a href="https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM">Proyecto Intermodular</a></p>
 </details>
 </td>
 </tr>
 </table>
+
+<br>
