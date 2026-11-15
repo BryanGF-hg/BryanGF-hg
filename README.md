@@ -1,5 +1,4 @@
 <div align="center">
-  <b>BGF</b>&nbsp;&nbsp;
   <a href="https://bryangf-hg.github.io/web/"><img src="https://img.shields.io/badge/Web-2A2E2B?style=flat&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="Web"></a>
   <a href="https://bryangf-hg.github.io/portafolio/"><img src="https://img.shields.io/badge/Portafolio-2A2E2B?style=flat&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="Portafolio"></a>
   <a href="https://bryangf-hg.github.io/curriculum/"><img src="https://img.shields.io/badge/Curr%C3%ADculum-2A2E2B?style=flat&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="Currículum"></a>
