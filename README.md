@@ -48,6 +48,11 @@ Me enfoco en el fullstack, la automatización y el desarrollo de herramientas qu
 <img src="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&amp;logo=markdown&amp;logoColor=000000&amp;labelColor=AEEAD6" height="24" alt="Markdown">
 </p>
 <p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&amp;theme=github_dark&amp;bg_color=171C19&amp;title_color=8ACDB5&amp;text_color=F0F0E9&amp;hide_title=true&amp;border_radius=4" width="450px" alt="Lenguajes más usados"></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BryanGF-hg&style=flat-square&color=2F5D52&label=Visitas+al+perfil" alt="Visitas al perfil" height="22" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/last-commit/BryanGF-hg/BryanGF-hg?label=Último%20commit&style=flat-square&color=2F5D52" alt="Último commit" height="22" />
+</p>
 </td>
 <td width="50%" valign="top">
 <p align="left"><code><b>$ ls projects/</b></code></p>
@@ -116,3 +121,4 @@ Me enfoco en el fullstack, la automatización y el desarrollo de herramientas qu
 </table>
 
 <br>
+
