@@ -51,7 +51,6 @@ Me enfoco en el fullstack, la automatización y el desarrollo de herramientas qu
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BryanGF-hg&style=flat-square&color=2F5D52&label=Visitas+al+perfil" alt="Visitas al perfil" height="22" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/last-commit/BryanGF-hg/BryanGF-hg?label=Último%20commit&style=flat-square&color=2F5D52" alt="Último commit" height="22" />
 </p>
 </td>
 <td width="50%" valign="top">
