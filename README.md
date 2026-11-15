@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- MENÚ DE NAVEGACIÓN -->
   <div style="background: #A8E6CF; padding: 12px; border-radius: 8px; margin-bottom: 24px;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; align-items: center; font-family: 'Victor Mono', monospace;">
       <span style="font-weight: bold; color: #3E7C6B; font-size: 18px; margin-right: 8px;">BGF</span>
@@ -13,25 +12,23 @@
   </div>
 </div>
 
-<!-- SECCIÓN: SOBRE MÍ -->
 <div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
   <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ whoami</span>
   <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
 </div>
 
-Estudiante de 2º de **Desarrollo de Aplicaciones Multiplataforma** (DAM) en CEAC FP, Valencia. 
-Me enfoco en el backend, la automatización y el desarrollo de herramientas que resuelvan problemas concretos.
+<p style="margin-bottom: 24px;">Estudiante de 2º de <b>Desarrollo de Aplicaciones Multiplataforma</b> (DAM) en CEAC FP, Valencia. <br>Me enfoco en el backend, la automatización y el desarrollo de herramientas que resuelvan problemas concretos.</p>
 
-<br>
+<div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: space-between; align-items: flex-start;">
 
-<!-- SECCIÓN: STACK -->
+<div style="flex: 1; min-width: 300px; max-width: 49%;">
+
 <div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
   <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ cat stack.txt</span>
   <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
 </div>
 
-<!-- TECNOLOGÍAS COLOR MENTA -->
-<p dir="auto" align="left">
+<p dir="auto" align="left" style="margin-bottom: 16px;">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6" alt="Python" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6" alt="PHP" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&logo=javascript&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&logo=javascript&logoColor=000000&labelColor=AEEAD6" alt="JavaScript" style="max-width: 100%;"></a>
@@ -58,26 +55,24 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6" alt="Markdown" style="max-width: 100%;"></a>
 </p>
 
-<!-- SVG DINÁMICO DE LENGUAJES (Servicio alternativo más estable) -->
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&theme=github_dark&bg_color=171C19&title_color=8ACDB5&text_color=F0F0E9&hide_title=true&border_radius=4" alt="Lenguajes más usados" />
-</p>
+<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&theme=github_dark&bg_color=171C19&title_color=8ACDB5&text_color=F0F0E9&hide_title=true&border_radius=4" alt="Lenguajes más usados" style="max-width: 100%;" /></p>
 
-<br>
+</div>
 
-<!-- SECCIÓN: PROYECTOS (Comprimidos con Hover) -->
+<div style="flex: 1; min-width: 300px; max-width: 49%;">
+
 <div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
   <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ ls projects/</span>
   <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
 </div>
 
-<div style="font-family: 'Victor Mono', monospace; font-size: 14px; line-height: 2; padding-left: 8px;">
+<div style="font-family: 'Victor Mono', monospace; font-size: 14px; line-height: 2; padding-left: 8px; margin-bottom: 24px;">
   <a href="https://github.com/BryanGF-hg/AutoCYP" title="Herramienta en Python para generar estructuras de documentos." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">AutoCYP📋️</a>
   <span style="color: #3E7C6B; margin: 0 6px;">·</span>
   <a href="https://github.com/BryanGF-hg/WePlan" title="Conexión social y planificación para grupos locales." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">WePlan</a>
   <span style="color: #3E7C6B; margin: 0 6px;">·</span>
   <a href="https://github.com/BryanGF-hg/Proyecto-FloMViDex" title="Reproductor musical web (Maidcore)." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">FloMViDex🎵️</a>
-  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <br>
   <a href="https://github.com/BryanGF-hg/comanya" title="CRM para análisis de competidores." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">Comanya🧭️</a>
   <span style="color: #3E7C6B; margin: 0 6px;">·</span>
   <a href="https://github.com/BryanGF-hg/phosfytte-copilot" title="Transcriptor de YouTube con resumen automático (IA)." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">Phosfytte➡️</a>
@@ -85,13 +80,15 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
   <a href="https://github.com/samonzfu/Transcriptor-Audios-WhatsApp" title="Transcriptor de audios de WhatsApp." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">WAT🔈️</a>
 </div>
 
-<br>
-
-<!-- SECCIÓN: REPOSITORIOS -->
 <div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
   <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ ls repos/</span>
   <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
 </div>
 
-- **DAM 2**: [Acceso a Datos](https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM) · [DAM II](https://github.com/BryanGF-hg/DAM-II)
-- **DAM 1**: [Programación](https://github.com/BryanGF-hg/Programacion2526-1DAM) · [Bases de Datos](https://github.com/BryanGF-hg/Bases-de-Datos2526-1DAM) · [Proyecto Intermodular](https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM)
+<ul style="padding-left: 20px; margin-top: 8px; font-family: 'Victor Mono', monospace; font-size: 13px; color: #2A2E2B;">
+  <li style="margin-bottom: 8px;"><b>DAM 2:</b> <a href="https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">Acceso a Datos</a> · <a href="https://github.com/BryanGF-hg/DAM-II" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">DAM II</a></li>
+  <li style="margin-bottom: 8px;"><b>DAM 1:</b> <a href="https://github.com/BryanGF-hg/Programacion2526-1DAM" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">Programación</a> · <a href="https://github.com/BryanGF-hg/Bases-de-Datos2526-1DAM" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">Bases de Datos</a> · <a href="https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">Proyecto Intermodular</a></li>
+</ul>
+
+</div>
+</div>
