@@ -1,16 +1,16 @@
-<div align="center">
-  <div style="background: #A8E6CF; padding: 12px; border-radius: 8px; margin-bottom: 24px;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; align-items: center; font-family: 'Victor Mono', monospace;">
-      <span style="font-weight: bold; color: #3E7C6B; font-size: 18px; margin-right: 8px;">BGF</span>
-      <a href="https://bryangf-hg.github.io/web/" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">Web</a>
-      <a href="https://bryangf-hg.github.io/portafolio/" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">Portafolio</a>
-      <a href="https://bryangf-hg.github.io/curriculum/" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">Currículum</a>
-      <a href="https://github.com/BryanGF-hg" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">GitHub</a>
-      <a href="https://www.linkedin.com/in/bryan-glot-fong-04082a39a/" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">LinkedIn</a>
-      <a href="mailto:bryanglot@gmail.com" style="background: #FF8A3D; color: #2A2E2B; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #FF8A3D;">→ Contacto</a>
-    </div>
-  </div>
-</div>
+<table width="100%" border="0" cellpadding="10" cellspacing="0" bgcolor="#A8E6CF">
+<tr>
+<td align="center" valign="middle">
+  <b>BGF</b>&nbsp;&nbsp;
+  <a href="https://bryangf-hg.github.io/web/"><img src="https://img.shields.io/badge/Web-2A2E2B?style=flat&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="Web"></a>
+  <a href="https://bryangf-hg.github.io/portafolio/"><img src="https://img.shields.io/badge/Portafolio-2A2E2B?style=flat&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="Portafolio"></a>
+  <a href="https://bryangf-hg.github.io/curriculum/"><img src="https://img.shields.io/badge/Curr%C3%ADculum-2A2E2B?style=flat&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="Currículum"></a>
+  <a href="https://github.com/BryanGF-hg"><img src="https://img.shields.io/badge/GitHub-2A2E2B?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/bryan-glot-fong-04082a39a/"><img src="https://img.shields.io/badge/LinkedIn-2A2E2B?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="LinkedIn"></a>
+  <a href="mailto:bryanglot@gmail.com"><img src="https://img.shields.io/badge/%E2%86%92_Contacto-FF8A3D?style=flat&amp;labelColor=FF8A3D&amp;color=FF8A3D" height="26" alt="Contacto"></a>
+</td>
+</tr>
+</table>
 
 <div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
   <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ whoami</span>
@@ -59,7 +59,7 @@
 
 </div>
 
-<div style="flex: 1; min-width: 300px; max-width: 49%;">
+<div style="flex: 1; min-width: 300px; max-width: 50%;">
 
 <div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
   <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ ls projects/</span>
