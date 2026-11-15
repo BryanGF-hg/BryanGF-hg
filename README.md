@@ -1,1 +1,94 @@
+<table width="100%" border="0" cellpadding="10" cellspacing="0" bgcolor="#A8E6CF">
+<tr>
+<td align="center" valign="middle">
+  <b>BGF</b>&nbsp;&nbsp;
+  <a href="https://bryangf-hg.github.io/web/"><img src="https://img.shields.io/badge/Web-2A2E2B?style=flat&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="Web"></a>
+  <a href="https://bryangf-hg.github.io/portafolio/"><img src="https://img.shields.io/badge/Portafolio-2A2E2B?style=flat&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="Portafolio"></a>
+  <a href="https://bryangf-hg.github.io/curriculum/"><img src="https://img.shields.io/badge/Curr%C3%ADculum-2A2E2B?style=flat&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="Currículum"></a>
+  <a href="https://github.com/BryanGF-hg"><img src="https://img.shields.io/badge/GitHub-2A2E2B?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/bryan-glot-fong-04082a39a/"><img src="https://img.shields.io/badge/LinkedIn-2A2E2B?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=2A2E2B&amp;color=2A2E2B" height="26" alt="LinkedIn"></a>
+  <a href="mailto:bryanglot@gmail.com"><img src="https://img.shields.io/badge/%E2%86%92_Contacto-FF8A3D?style=flat&amp;labelColor=FF8A3D&amp;color=FF8A3D" height="26" alt="Contacto"></a>
+</td>
+</tr>
+</table>
+
+<div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
+  <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ whoami</span>
+  <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
+</div>
+
+<p style="margin-bottom: 24px;">Estudiante de 2º de <b>Desarrollo de Aplicaciones Multiplataforma</b> (DAM) en CEAC FP, Valencia. <br>Me enfoco en el backend, la automatización y el desarrollo de herramientas que resuelvan problemas concretos.</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: space-between; align-items: flex-start;">
+
+<div style="flex: 1; min-width: 300px; max-width: 49%;">
+
+<div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
+  <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ cat stack.txt</span>
+  <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
+</div>
+
+<p dir="auto" align="left" style="margin-bottom: 16px;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6" alt="Python" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6" alt="PHP" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&logo=javascript&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&logo=javascript&logoColor=000000&labelColor=AEEAD6" alt="JavaScript" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/TypeScript-AEEAD6?style=flat&logo=typescript&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/TypeScript-AEEAD6?style=flat&logo=typescript&logoColor=000000&labelColor=AEEAD6" alt="TypeScript" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/HTML5-AEEAD6?style=flat&logo=html5&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/HTML5-AEEAD6?style=flat&logo=html5&logoColor=000000&labelColor=AEEAD6" alt="HTML" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/CSS3-AEEAD6?style=flat&logo=css3&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/CSS3-AEEAD6?style=flat&logo=css3&logoColor=000000&labelColor=AEEAD6" alt="CSS" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/React-AEEAD6?style=flat&logo=react&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/React-AEEAD6?style=flat&logo=react&logoColor=000000&labelColor=AEEAD6" alt="React" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/DeepSeek-AEEAD6?style=flat&logo=deepseek&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/DeepSeek-AEEAD6?style=flat&logo=deepseek&logoColor=000000&labelColor=AEEAD6" alt="DeepSeek" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/ChatGPT-AEEAD6?style=flat&logo=openai&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/ChatGPT-AEEAD6?style=flat&logo=openai&logoColor=000000&labelColor=AEEAD6" alt="ChatGPT" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Ollama-AEEAD6?style=flat&logo=ollama&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Ollama-AEEAD6?style=flat&logo=ollama&logoColor=000000&labelColor=AEEAD6" alt="Ollama" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Vercel-AEEAD6?style=flat&logo=vercel&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Vercel-AEEAD6?style=flat&logo=vercel&logoColor=000000&labelColor=AEEAD6" alt="Vercel" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/VS%20Code-AEEAD6?style=flat&logo=visual-studio-code&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/VS%20Code-AEEAD6?style=flat&logo=visual-studio-code&logoColor=000000&labelColor=AEEAD6" alt="VS Code" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MongoDB-AEEAD6?style=flat&logo=mongodb&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/MongoDB-AEEAD6?style=flat&logo=mongodb&logoColor=000000&labelColor=AEEAD6" alt="MongoDB" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MySQL-AEEAD6?style=flat&logo=mysql&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/MySQL-AEEAD6?style=flat&logo=mysql&logoColor=000000&labelColor=AEEAD6" alt="MySQL" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/SQLite-AEEAD6?style=flat&logo=sqlite&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/SQLite-AEEAD6?style=flat&logo=sqlite&logoColor=000000&labelColor=AEEAD6" alt="SQLite" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Notion-AEEAD6?style=flat&logo=notion&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Notion-AEEAD6?style=flat&logo=notion&logoColor=000000&labelColor=AEEAD6" alt="Notion" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Angular-AEEAD6?style=flat&logo=angular&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Angular-AEEAD6?style=flat&logo=angular&logoColor=000000&labelColor=AEEAD6" alt="Angular" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/FastAPI-AEEAD6?style=flat&logo=fastapi&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/FastAPI-AEEAD6?style=flat&logo=fastapi&logoColor=000000&labelColor=AEEAD6" alt="FastAPI" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Node.js-AEEAD6?style=flat&logo=nodedotjs&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Node.js-AEEAD6?style=flat&logo=nodedotjs&logoColor=000000&labelColor=AEEAD6" alt="Node.js" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Linux%20Mint-AEEAD6?style=flat&logo=linuxmint&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Linux%20Mint-AEEAD6?style=flat&logo=linuxmint&logoColor=000000&labelColor=AEEAD6" alt="Linux Mint" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Git-AEEAD6?style=flat&logo=git&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Git-AEEAD6?style=flat&logo=git&logoColor=000000&labelColor=AEEAD6" alt="Git" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Linux-AEEAD6?style=flat&logo=linux&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Linux-AEEAD6?style=flat&logo=linux&logoColor=000000&labelColor=AEEAD6" alt="Linux" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/C++-AEEAD6?style=flat&logo=cplusplus&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/C++-AEEAD6?style=flat&logo=cplusplus&logoColor=000000&labelColor=AEEAD6" alt="C++" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6" alt="Markdown" style="max-width: 100%;"></a>
+</p>
+
+<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&theme=github_dark&bg_color=171C19&title_color=8ACDB5&text_color=F0F0E9&hide_title=true&border_radius=4" alt="Lenguajes más usados" style="max-width: 100%;" /></p>
+
+</div>
+
+<div style="flex: 1; min-width: 300px; max-width: 50%;">
+
+<div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
+  <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ ls projects/</span>
+  <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
+</div>
+
+<div style="font-family: 'Victor Mono', monospace; font-size: 14px; line-height: 2; padding-left: 8px; margin-bottom: 24px;">
+  <a href="https://github.com/BryanGF-hg/AutoCYP" title="Herramienta en Python para generar estructuras de documentos." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">AutoCYP📋️</a>
+  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <a href="https://github.com/BryanGF-hg/WePlan" title="Conexión social y planificación para grupos locales." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">WePlan</a>
+  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <a href="https://github.com/BryanGF-hg/Proyecto-FloMViDex" title="Reproductor musical web (Maidcore)." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">FloMViDex🎵️</a>
+  <br>
+  <a href="https://github.com/BryanGF-hg/comanya" title="CRM para análisis de competidores." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">Comanya🧭️</a>
+  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <a href="https://github.com/BryanGF-hg/phosfytte-copilot" title="Transcriptor de YouTube con resumen automático (IA)." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">Phosfytte➡️</a>
+  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <a href="https://github.com/samonzfu/Transcriptor-Audios-WhatsApp" title="Transcriptor de audios de WhatsApp." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">WAT🔈️</a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
+  <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ ls repos/</span>
+  <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
+</div>
+
+<ul style="padding-left: 20px; margin-top: 8px; font-family: 'Victor Mono', monospace; font-size: 13px; color: #2A2E2B;">
+  <li style="margin-bottom: 8px;"><b>DAM 2:</b> <a href="https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">Acceso a Datos</a> · <a href="https://github.com/BryanGF-hg/DAM-II" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">DAM II</a></li>
+  <li style="margin-bottom: 8px;"><b>DAM 1:</b> <a href="https://github.com/BryanGF-hg/Programacion2526-1DAM" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">Programación</a> · <a href="https://github.com/BryanGF-hg/Bases-de-Datos2526-1DAM" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">Bases de Datos</a> · <a href="https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM" style="color: #3E7C6B; text-decoration: none; border-bottom: 1px dashed #A8E6CF;">Proyecto Intermodular</a></li>
+</ul>
+
+</div>
 </div>
