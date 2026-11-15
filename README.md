@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- MENÚ DE NAVEGACIÓN (Estilo nav-modular.js) -->
+  <!-- MENÚ DE NAVEGACIÓN -->
   <div style="background: #A8E6CF; padding: 12px; border-radius: 8px; margin-bottom: 24px;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; align-items: center; font-family: 'Victor Mono', monospace;">
       <span style="font-weight: bold; color: #3E7C6B; font-size: 18px; margin-right: 8px;">BGF</span>
@@ -24,7 +24,7 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
 
 <br>
 
-<!-- SECCIÓN: STACK + GITHUB STATS -->
+<!-- SECCIÓN: STACK -->
 <div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
   <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ cat stack.txt</span>
   <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
@@ -58,13 +58,9 @@ Me enfoco en el backend, la automatización y el desarrollo de herramientas que 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6" alt="Markdown" style="max-width: 100%;"></a>
 </p>
 
-<!-- SVG DINÁMICO DE LENGUAJES -->
+<!-- SVG DINÁMICO DE LENGUAJES (Servicio alternativo más estable) -->
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGF-hg&layout=compact&langs_count=8&bg_color=172620&title_color=8ACDB5&text_color=F0F0E9&hide_border=true&border_radius=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGF-hg&layout=compact&langs_count=8&bg_color=F6F4EF&title_color=3E7C6B&text_color=2A2E2B&hide_border=true&border_radius=4" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGF-hg&layout=compact&langs_count=8&bg_color=F6F4EF&title_color=3E7C6B&text_color=2A2E2B&hide_border=true&border_radius=4" alt="Lenguajes más usados" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BryanGF-hg&theme=github_dark&bg_color=171C19&title_color=8ACDB5&text_color=F0F0E9&hide_title=true&border_radius=4" alt="Lenguajes más usados" />
 </p>
 
 <br>
