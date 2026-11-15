@@ -10,7 +10,7 @@
 
 <br>
 
-### 💻 $ whoami
+###  $ whoami
 
 Estudiante de 2º de **Desarrollo de Aplicaciones Multiplataforma** (DAM) en CEAC FP, Valencia.  
 Me enfoco en el backend, la automatización y el desarrollo de herramientas que resuelvan problemas concretos.
