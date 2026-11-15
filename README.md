@@ -1,31 +1,37 @@
-# house ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
+<div align="center">
+  <!-- MENÚ DE NAVEGACIÓN (Estilo nav-modular.js) -->
+  <div style="background: #A8E6CF; padding: 12px; border-radius: 8px; margin-bottom: 24px;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; align-items: center; font-family: 'Victor Mono', monospace;">
+      <span style="font-weight: bold; color: #3E7C6B; font-size: 18px; margin-right: 8px;">BGF</span>
+      <a href="https://bryangf-hg.github.io/web/" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">Web</a>
+      <a href="https://bryangf-hg.github.io/portafolio/" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">Portafolio</a>
+      <a href="https://bryangf-hg.github.io/curriculum/" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">Currículum</a>
+      <a href="https://github.com/BryanGF-hg" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">GitHub</a>
+      <a href="https://www.linkedin.com/in/bryan-glot-fong-04082a39a/" style="background: #2A2E2B; color: #F6F4EF; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #2A2E2B;">LinkedIn</a>
+      <a href="mailto:bryanglot@gmail.com" style="background: #FF8A3D; color: #2A2E2B; padding: 8px 16px; border-radius: 999px; text-decoration: none; font-size: 13px; font-weight: bold; border: 2px solid #FF8A3D;">→ Contacto</a>
+    </div>
+  </div>
+</div>
 
----
+<!-- SECCIÓN: SOBRE MÍ -->
+<div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
+  <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ whoami</span>
+  <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
+</div>
 
-Repos Activos:
-[Acceso a Datos 2DAM](https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM) |
-[DAMII](https://github.com/BryanGF-hg/DAM-II) |
+Estudiante de 2º de **Desarrollo de Aplicaciones Multiplataforma** (DAM) en CEAC FP, Valencia. 
+Me enfoco en el backend, la automatización y el desarrollo de herramientas que resuelvan problemas concretos.
 
+<br>
 
-Proyectos:
-[Auto-CYP](https://github.com/BryanGF-hg/AutoCYP) |
-[WePlan](https://github.com/BryanGF-hg/weplan/) |
-[FloMViDex](https://github.com/BryanGF-hg/Proyecto-FloMViDex/) |
-[Proyectos con IA](https://github.com/BryanGF-hg/ProyectosIA/)
+<!-- SECCIÓN: STACK + GITHUB STATS -->
+<div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
+  <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ cat stack.txt</span>
+  <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
+</div>
 
-Proyectos hecho en Prácticas:
-[Comanya](https://github.com/BryanGF-hg/comanya) |
-[WAT](https://github.com/samonzfu/Transcriptor-Audios-WhatsApp) |
-[phosfytte-copilot](https://github.com/BryanGF-hg/phosfytte-copilot) |
-
-Miscelaneo:
-[Imagenes Grem](https://github.com/BryanGF-hg/Imagenes-Grem)
-
-About me: [Web!](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf-hg.github.io/curriculum/) [Portafolio](https://bryangf-hg.github.io/portafolio)
-
-**Tecnologias**
---- 
-<p dir="auto">
+<!-- TECNOLOGÍAS COLOR MENTA -->
+<p dir="auto" align="left">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Python-AEEAD6?style=flat&logo=python&logoColor=000000&labelColor=AEEAD6" alt="Python" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/PHP-AEEAD6?style=flat&logo=php&logoColor=000000&labelColor=AEEAD6" alt="PHP" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&logo=javascript&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/JavaScript-AEEAD6?style=flat&logo=javascript&logoColor=000000&labelColor=AEEAD6" alt="JavaScript" style="max-width: 100%;"></a>
@@ -52,9 +58,44 @@ About me: [Web!](https://bryangf-hg.github.io/web/) [Curriculum](https://bryangf
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6"><img src="https://img.shields.io/badge/Markdown-AEEAD6?style=flat&logo=markdown&logoColor=000000&labelColor=AEEAD6" alt="Markdown" style="max-width: 100%;"></a>
 </p>
 
----
+<!-- SVG DINÁMICO DE LENGUAJES -->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGF-hg&layout=compact&langs_count=8&bg_color=172620&title_color=8ACDB5&text_color=F0F0E9&hide_border=true&border_radius=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGF-hg&layout=compact&langs_count=8&bg_color=F6F4EF&title_color=3E7C6B&text_color=2A2E2B&hide_border=true&border_radius=4" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGF-hg&layout=compact&langs_count=8&bg_color=F6F4EF&title_color=3E7C6B&text_color=2A2E2B&hide_border=true&border_radius=4" alt="Lenguajes más usados" />
+  </picture>
+</p>
 
-Contacto:
-[Correo](bryanglot@gmail.com)
-[Correo Administrativo](bryan.alexander.glot.fong@alu.ceacfp.es)
-[Linkeldn](https://www.linkedin.com/in/bryan-glot-fong-04082a39a/)
+<br>
+
+<!-- SECCIÓN: PROYECTOS (Comprimidos con Hover) -->
+<div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
+  <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ ls projects/</span>
+  <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
+</div>
+
+<div style="font-family: 'Victor Mono', monospace; font-size: 14px; line-height: 2; padding-left: 8px;">
+  <a href="https://github.com/BryanGF-hg/AutoCYP" title="Herramienta en Python para generar estructuras de documentos." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">AutoCYP📋️</a>
+  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <a href="https://github.com/BryanGF-hg/WePlan" title="Conexión social y planificación para grupos locales." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">WePlan</a>
+  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <a href="https://github.com/BryanGF-hg/Proyecto-FloMViDex" title="Reproductor musical web (Maidcore)." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">FloMViDex🎵️</a>
+  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <a href="https://github.com/BryanGF-hg/comanya" title="CRM para análisis de competidores." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">Comanya🧭️</a>
+  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <a href="https://github.com/BryanGF-hg/phosfytte-copilot" title="Transcriptor de YouTube con resumen automático (IA)." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">Phosfytte➡️</a>
+  <span style="color: #3E7C6B; margin: 0 6px;">·</span>
+  <a href="https://github.com/samonzfu/Transcriptor-Audios-WhatsApp" title="Transcriptor de audios de WhatsApp." style="color: #2A2E2B; text-decoration: none; border-bottom: 1px dashed #A8E6CF; font-weight: bold;">WAT🔈️</a>
+</div>
+
+<br>
+
+<!-- SECCIÓN: REPOSITORIOS -->
+<div style="display: flex; align-items: center; margin-bottom: 16px; background: #F6F4EF; border: 2px solid #A8E6CF; border-radius: 4px; padding: 8px 12px;">
+  <span style="font-family: monospace; font-weight: bold; color: #3E7C6B; margin-right: 16px; white-space: nowrap;">$ ls repos/</span>
+  <hr style="flex-grow: 1; border: none; border-top: 2px dashed #A8E6CF; margin: 0;" />
+</div>
+
+- **DAM 2**: [Acceso a Datos](https://github.com/BryanGF-hg/Acceso-a-Datos-2DAM) · [DAM II](https://github.com/BryanGF-hg/DAM-II)
+- **DAM 1**: [Programación](https://github.com/BryanGF-hg/Programacion2526-1DAM) · [Bases de Datos](https://github.com/BryanGF-hg/Bases-de-Datos2526-1DAM) · [Proyecto Intermodular](https://github.com/BryanGF-hg/Proyecto-Intermodular-1DAM)
