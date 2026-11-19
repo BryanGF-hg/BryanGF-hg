@@ -1,0 +1,14 @@
+[Unit]
+Description=WORLD PACKET SIMULATOR - túnel de Cloudflare con nombre
+After=wps-server.service network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=__DIR__
+ExecStart=__CLOUDFLARED__ tunnel --no-autoupdate --config "__DIR__/deploy/cloudflared-config.yml" run wps
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

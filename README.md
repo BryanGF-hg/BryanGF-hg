@@ -120,4 +120,6 @@ Me enfoco en el fullstack, la automatización y el desarrollo de herramientas qu
 </table>
 
 <br>
-
+<p align="center">
+  <img src="./wps-map.svg" alt="World Packet Simulator: cada visita a mis repos viaja como un paquete hasta Valencia" width="100%">
+</p>

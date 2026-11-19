@@ -1,0 +1,38 @@
+# Regenera wps-map.svg con el tráfico de tus repos y lo sube al repo de tu perfil.
+# Copia esta carpeta .github/ y la carpeta wps/ en tu repo especial USUARIO/USUARIO.
+name: WPS map
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"      # cada 3 horas (UTC)
+  workflow_dispatch:             # botón "Run workflow" para lanzarlo a mano
+
+permissions:
+  contents: write                # para poder hacer commit del SVG
+
+concurrency:
+  group: wps-map
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar mapa
+        working-directory: wps
+        env:
+          WPS_GITHUB_TOKEN: ${{ secrets.WPS_GITHUB_TOKEN }}
+          WPS_GITHUB_HOME: VALENCIA
+          # WPS_GITHUB_REPOS: usuario/repo1,usuario/repo2   # vacío = todos tus repos
+        run: python3 profile_svg.py --from-github --out ../wps-map.svg
+
+      - name: Subir el SVG si ha cambiado
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add wps-map.svg
+          # Solo commit si cambian los datos (no por la hora de "actualizado")
+          git diff --cached --quiet -I 'actualizado' || git commit -m "WPS: mapa de tráfico actualizado"
+          git push

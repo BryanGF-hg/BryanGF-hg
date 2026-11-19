@@ -1,0 +1,16 @@
+[Unit]
+Description=WORLD PACKET SIMULATOR - broker + monitor
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=__DIR__
+# Solo escucha en local: el acceso desde fuera entra por el túnel / Caddy
+ExecStart=__PYTHON__ server.py --host 127.0.0.1
+Restart=on-failure
+RestartSec=3
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=default.target

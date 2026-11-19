@@ -1,0 +1,7 @@
+# Opción VPS: Caddy pone HTTPS automático (Let's Encrypt) y reparte por ruta.
+#   wss://wps.TUDOMINIO.com/ws -> broker   |   https://wps.TUDOMINIO.com/ -> monitor
+wps.TUDOMINIO.com {
+	@broker path /ws /ws/*
+	reverse_proxy @broker 127.0.0.1:8765
+	reverse_proxy 127.0.0.1:8766
+}

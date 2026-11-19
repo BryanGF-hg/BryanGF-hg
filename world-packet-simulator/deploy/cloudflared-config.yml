@@ -1,0 +1,15 @@
+# Túnel con NOMBRE (dirección fija) para WORLD PACKET SIMULATOR.
+# Un solo dominio para todo:
+#   wss://wps.TUDOMINIO.com/ws   -> broker WebSocket (127.0.0.1:8765)
+#   https://wps.TUDOMINIO.com/   -> monitor HTTP     (127.0.0.1:8766)
+# Sustituye USUARIO, TUNNEL_ID y TUDOMINIO (ver deploy/HOSTING.md, paso B).
+tunnel: wps
+credentials-file: /home/USUARIO/.cloudflared/TUNNEL_ID.json
+
+ingress:
+  - hostname: wps.TUDOMINIO.com
+    path: ^/ws
+    service: http://127.0.0.1:8765
+  - hostname: wps.TUDOMINIO.com
+    service: http://127.0.0.1:8766
+  - service: http_status:404
