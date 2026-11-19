@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 852 640" width="100%" font-family="'Courier New', Courier, monospace" font-size="12" role="img" aria-label="World Packet Simulator: tráfico de GitHub hacia Valencia">
-<title>World Packet Simulator — 3 visitas hoy hacia Valencia</title>
+<title>World Packet Simulator — 0 visitas hoy hacia Valencia</title>
 <defs><clipPath id="mapclip"><rect x="20" y="56" width="812" height="446"/></clipPath></defs>
 <rect width="100%" height="100%" fill="#151515"/>
 <text x="426" y="34" text-anchor="middle" fill="#d4b000" font-size="17" font-weight="bold">[ WORLD PACKET SIMULATOR :: GITHUB TRAFFIC ]</text>
@@ -167,7 +167,7 @@
 <text xml:space="preserve" x="519.6" y="234.9" fill="#af8700" textLength="21.6" lengthAdjust="spacingAndGlyphs">\--</text>
 <text xml:space="preserve" x="541.2" y="234.9" fill="#ffd700" font-weight="bold" textLength="7.2" lengthAdjust="spacingAndGlyphs">@</text>
 <text xml:space="preserve" x="548.4" y="234.9" fill="#af8700" textLength="7.2" lengthAdjust="spacingAndGlyphs">\</text>
-<text xml:space="preserve" x="555.6" y="234.9" fill="#d4b000" textLength="21.6" lengthAdjust="spacingAndGlyphs">KWT</text>
+<text xml:space="preserve" x="555.6" y="234.9" fill="#d4b000" textLength="21.6" lengthAdjust="spacingAndGlyphs">DXB</text>
 <text xml:space="preserve" x="577.2" y="234.9" fill="#878700" textLength="7.2" lengthAdjust="spacingAndGlyphs">:</text>
 <text xml:space="preserve" x="584.4" y="234.9" fill="#5f5f00" textLength="93.6" lengthAdjust="spacingAndGlyphs">.............</text>
 <text xml:space="preserve" x="678.0" y="234.9" fill="#878700" textLength="14.4" lengthAdjust="spacingAndGlyphs">::</text>
@@ -361,7 +361,7 @@
 <text xml:space="preserve" x="274.8" y="388.9" fill="#5f5f00" textLength="43.2" lengthAdjust="spacingAndGlyphs">......</text>
 <text xml:space="preserve" x="318.0" y="388.9" fill="#ffd700" font-weight="bold" textLength="7.2" lengthAdjust="spacingAndGlyphs">@</text>
 <text xml:space="preserve" x="325.2" y="388.9" fill="#af8700" textLength="7.2" lengthAdjust="spacingAndGlyphs">-</text>
-<text xml:space="preserve" x="332.4" y="388.9" fill="#d4b000" textLength="21.6" lengthAdjust="spacingAndGlyphs">VEN</text>
+<text xml:space="preserve" x="332.4" y="388.9" fill="#d4b000" textLength="21.6" lengthAdjust="spacingAndGlyphs">SAO</text>
 <text xml:space="preserve" x="354.0" y="388.9" fill="#af8700" textLength="50.4" lengthAdjust="spacingAndGlyphs">------\</text>
 <text xml:space="preserve" x="454.8" y="388.9" fill="#878700" textLength="7.2" lengthAdjust="spacingAndGlyphs">:</text>
 <text xml:space="preserve" x="462.0" y="388.9" fill="#5f5f00" textLength="14.4" lengthAdjust="spacingAndGlyphs">..</text>
@@ -412,20 +412,18 @@
 <text xml:space="preserve" x="260.4" y="472.9" fill="#878700" textLength="14.4" lengthAdjust="spacingAndGlyphs">::</text>
 <g clip-path="url(#mapclip)">
 <circle cx="422.4" cy="189.0" r="0" fill="none" stroke="#d4b000" stroke-width="2"><animate attributeName="r" from="0" to="469" dur="4s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0.35;0" dur="4s" begin="0.00s" repeatCount="indefinite"/></circle>
-<circle cx="422.4" cy="189.0" r="0" fill="none" stroke="#d4b000" stroke-width="2"><animate attributeName="r" from="0" to="469" dur="4s" begin="2.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0.35;0" dur="4s" begin="2.00s" repeatCount="indefinite"/></circle>
 </g>
 <path id="route" d="M156.0,203.0 L163.2,203.0 L170.4,203.0 L177.6,203.0 L184.8,203.0 L192.0,203.0 L199.2,203.0 L206.4,203.0 L213.6,189.0 L220.8,189.0 L228.0,189.0 L235.2,189.0 L242.4,189.0 L249.6,189.0 L256.8,189.0 L264.0,189.0 L264.0,189.0 L271.2,189.0 L278.4,189.0 L285.6,189.0 L292.8,189.0 L300.0,189.0 L307.2,189.0 L314.4,189.0 L321.6,189.0 L328.8,189.0 L336.0,189.0 L343.2,189.0 L350.4,189.0 L357.6,189.0 L364.8,189.0 L372.0,189.0 L379.2,189.0 L386.4,189.0 L393.6,189.0 L400.8,189.0 L408.0,189.0 L415.2,189.0 L415.2,189.0 L422.4,189.0" fill="none" stroke="#ffd700" stroke-width="1" stroke-dasharray="2 5" opacity="0.6"/>
 <text text-anchor="middle" dominant-baseline="central" fill="#ffff00" font-weight="bold" font-size="15">*<animateMotion dur="7.0s" begin="0.00s" repeatCount="indefinite" path="M156.0,203.0 L163.2,203.0 L170.4,203.0 L177.6,203.0 L184.8,203.0 L192.0,203.0 L199.2,203.0 L206.4,203.0 L213.6,189.0 L220.8,189.0 L228.0,189.0 L235.2,189.0 L242.4,189.0 L249.6,189.0 L256.8,189.0 L264.0,189.0 L264.0,189.0 L271.2,189.0 L278.4,189.0 L285.6,189.0 L292.8,189.0 L300.0,189.0 L307.2,189.0 L314.4,189.0 L321.6,189.0 L328.8,189.0 L336.0,189.0 L343.2,189.0 L350.4,189.0 L357.6,189.0 L364.8,189.0 L372.0,189.0 L379.2,189.0 L386.4,189.0 L393.6,189.0 L400.8,189.0 L408.0,189.0 L415.2,189.0 L415.2,189.0 L422.4,189.0"/></text>
-<text text-anchor="middle" dominant-baseline="central" fill="#ffff00" font-weight="bold" font-size="15">*<animateMotion dur="7.0s" begin="3.50s" repeatCount="indefinite" path="M156.0,203.0 L163.2,203.0 L170.4,203.0 L177.6,203.0 L184.8,203.0 L192.0,203.0 L199.2,203.0 L206.4,203.0 L213.6,189.0 L220.8,189.0 L228.0,189.0 L235.2,189.0 L242.4,189.0 L249.6,189.0 L256.8,189.0 L264.0,189.0 L264.0,189.0 L271.2,189.0 L278.4,189.0 L285.6,189.0 L292.8,189.0 L300.0,189.0 L307.2,189.0 L314.4,189.0 L321.6,189.0 L328.8,189.0 L336.0,189.0 L343.2,189.0 L350.4,189.0 L357.6,189.0 L364.8,189.0 L372.0,189.0 L379.2,189.0 L386.4,189.0 L393.6,189.0 L400.8,189.0 L408.0,189.0 L415.2,189.0 L415.2,189.0 L422.4,189.0"/></text>
 <text x="422.4" y="189.0" text-anchor="middle" dominant-baseline="central" fill="#ffff00" font-weight="bold" font-size="16">@<animate attributeName="opacity" values="1;0.25;1" dur="1.2s" repeatCount="indefinite"/></text>
 <rect x="20" y="520" width="260" height="62" fill="none" stroke="#d4b000" stroke-width="1.5"/>
 <text x="150" y="544" text-anchor="middle" fill="#d4b000" font-weight="bold">[ VALENCIA HOY ]</text>
-<text x="150" y="566" text-anchor="middle" fill="#d4b000">3 visitas · 0 únicos</text>
+<text x="150" y="566" text-anchor="middle" fill="#d4b000">0 visitas · 0 únicos</text>
 <rect x="296" y="520" width="260" height="62" fill="none" stroke="#d4b000" stroke-width="1.5"/>
 <text x="426" y="544" text-anchor="middle" fill="#d4b000" font-weight="bold">[ ÚLTIMOS 14 DÍAS ]</text>
-<text x="426" y="566" text-anchor="middle" fill="#d4b000">20 visitas · 0 repos</text>
+<text x="426" y="566" text-anchor="middle" fill="#d4b000">20 visitas · 32 repos</text>
 <rect x="572" y="520" width="260" height="62" fill="none" stroke="#d4b000" stroke-width="1.5"/>
 <text x="702" y="544" text-anchor="middle" fill="#d4b000" font-weight="bold">[ RUTA DEL PULSO ]</text>
 <text x="702" y="566" text-anchor="middle" fill="#d4b000">GIT &gt; NYC &gt; MAD &gt; VLC</text>
-<text x="20" y="612" fill="#875f00">@ router  * paquete  ◯ onda = visitas  · más claro = más visitas hoy · modo demo (sin token)</text>
+<text x="20" y="612" fill="#875f00">@ router  * paquete  ◯ onda = visitas  · más claro = más visitas hoy · actualizado 2026-11-19 16:38 UTC</text>
 </svg>
